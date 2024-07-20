@@ -4,10 +4,10 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Videos Chistosos 
-https://linear-46.frequency.stream/46/hls/master/playlist.m3u8
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Retrix Latin X
-https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
+https://linear-142.frequency.stream/mt/studio/142/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="ViX",Noticias Univision 24/7
 https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
