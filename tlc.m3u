@@ -102,7 +102,7 @@ http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
 
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
-http://45.5.151.151:8000/play/a0hx/index.m3u8
+http://181.78.82.59:27000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
